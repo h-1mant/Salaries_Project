@@ -1,4 +1,4 @@
-# Compensation Estimation  
+#Salary Estimation Portfolio
 
 Exploration of Descriptive and Inferential Statistics (Python)
 
