@@ -1,4 +1,4 @@
-# Salary 
+# Compensation Estimation  
 
 Exploration of Descriptive and Inferential Statistics (Python)
 
