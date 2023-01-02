@@ -14,7 +14,6 @@ Exploration of Descriptive and Inferential Statistics (Python)
 - Matplotlib
 - Seaborn
 - SciPy
-- Jupyter
 
 Description
 ---
