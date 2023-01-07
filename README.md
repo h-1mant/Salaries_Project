@@ -1,4 +1,4 @@
-# Salary Estimation Portfolio
+# Salary Estimation Project
 
 Exploration of Descriptive and Inferential Statistics (Python)
 
