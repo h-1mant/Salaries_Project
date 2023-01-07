@@ -8,7 +8,6 @@ Exploration of Descriptive and Inferential Statistics (Python)
 - Confidence Intervals
 
 ### Libraries Used
-- Python 3
 - Numpy
 - Pandas
 - Matplotlib
