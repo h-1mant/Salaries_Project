@@ -2,7 +2,7 @@
 
 Exploration of Descriptive and Inferential Statistics (Python)
 
-### Methods Used
+### Skills
 - Data Analysis and Visualization
 - Hypothesis Testing
 - Confidence Intervals
